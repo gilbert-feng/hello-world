@@ -1,2 +1,2 @@
 # hello-world
-Just for exercise
+Hello man!
